@@ -163,6 +163,9 @@ main {
     width: 50%;
     height: 40%;
   }
+  .tel {
+    color: white;
+  }
 @media (max-width: 350px) {
     .titlebox {
         height: 40vh;
